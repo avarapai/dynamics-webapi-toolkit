@@ -1,5 +1,5 @@
 {
-  "name": "alexacrm/dynamics-webapi-toolkit",
+  "name": "avarapai/dynamics-webapi-toolkit",
   "description": "Web API toolkit for Microsoft Dataverse and Dynamics 365",
   "type": "library",
   "license": "MIT",
